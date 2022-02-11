@@ -1,0 +1,23 @@
+{
+  "name": "fsup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minco-inc/File-Server.git"
+  },
+  "author": "Minco",
+  "license": "MIT",
+  "bin": {
+      "file-server": "./file-server",
+      "fsup": "./file-server"
+  },
+  "bugs": {
+    "url": "https://github.com/Minco-inc/File-Server/issues"
+  },
+  "homepage": "https://github.com/Minco-inc/File-Server#readme"
+}
