@@ -25,3 +25,6 @@ fsup("test.txt", 8080, () => {
     console.log("Listening!");
 });
 ```
+
+# New
+- Added logging feauture to CLI. CLI will log all ip of requests!
