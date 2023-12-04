@@ -13,10 +13,10 @@
   "author": "Minco",
   "license": "MIT",
   "bin": {
-      "file-server": "node file-server.js",
-      "file-upload": "node file-server.js",
-      "upload": "node file-server.js",
-      "fsup": "node file-server.js"
+      "file-server": "./file-server.js",
+      "file-upload": "./file-server.js",
+      "upload": "./file-server.js",
+      "fsup": "./file-server.js"
   },
   "bugs": {
     "url": "https://github.com/Minco-inc/File-Server/issues"
